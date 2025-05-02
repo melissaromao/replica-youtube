@@ -2,13 +2,13 @@ const VideoCard = () => {
     return (
         <div className="rounded-lg overflow-hidden">
             <img
-                src="./assets/fatec.jpg"
+                src="/assets/fatec.jpg"
                 alt="Thumb vídeo"
                 className="w-full"
             />
             <div className="p-2 flex gap-2">
                 <img
-                    src="./assets/cps.jpg"
+                    src="/assets/cps.jpg"
                     alt="Ícone do canal"
                     className="w-[40px] h-[40px] rounded-full object-cover"
                 />
