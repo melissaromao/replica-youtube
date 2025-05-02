@@ -2,13 +2,13 @@ const VideoCard = () => {
     return (
         <div className="rounded-lg overflow-hidden">
             <img
-                src="/assets/fatec.jpg"
+                src="https://fatweb.s3.amazonaws.com/vestibularfatec/assets/img/layout/2sem25/og-image.jpg"
                 alt="Thumb vídeo"
                 className="w-full"
             />
             <div className="p-2 flex gap-2">
                 <img
-                    src="/assets/cps.jpg"
+                    src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2022/08/cps-logo-identidade.jpg"
                     alt="Ícone do canal"
                     className="w-[40px] h-[40px] rounded-full object-cover"
                 />
